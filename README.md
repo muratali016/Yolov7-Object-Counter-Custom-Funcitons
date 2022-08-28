@@ -8,7 +8,8 @@ Features
 * Video/WebCam/External Camera/IP Stream Supported
 
 ## It is super easy to run
-* **We are going to copy offical yolov7 github page and just add "detect_and_count.py" file. That is all** 
+* **We are going to copy offical yolov7 github page and just add "detect_and_count.py" file. That is all**
+* **When you use Google Colab for codes, it will be way easier than working on the local computer**
 
 ## Steps to run Code
 * clone the repository:
