@@ -6,9 +6,13 @@ Features
 * Code can run on Both (CPU & GPU)
 * Video/WebCam/External Camera/IP Stream Supported
 
+## It is super easy to run
+* We are going to copy offical yolov7 github page and just add detect_and_count.py file. That is all 
+
 ## Steps to run Code
 * clone the repository:
-* ``` git clone https://github.com/muratali016/Yolov7-Object-Counter.git ```
+* ```git clone https://github.com/WongKinYiu/yolov7 ```
+* ```%cd yolov7```
 * install yolov7 model
 * ``` !wget "https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt" ```
 
@@ -19,7 +23,7 @@ Features
  ``` pip install -r requirements.txt ```
 
 ### Using counter
- ``` !python detect_and_count.py --weights /content/Yolov7-Object-Counter/yolov7.pt --conf 0.1 --source "your images or video path" ```
+ ``` !python detect_and_count.py --weights /content/yolov7/yolov7.pt --conf 0.1 --source /content/yolov7/inference/images ```
  
 ### Results!
 
