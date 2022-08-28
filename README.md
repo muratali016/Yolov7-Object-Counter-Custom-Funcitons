@@ -19,7 +19,7 @@ Features
  ``` pip install -r requirements.txt ```
 
 ### Using counter
- ``` !python detect_and_count.py --weights /content/yolov7/yolov7.pt --conf 0.1 --source "your images or video path" ```
+ ``` !python detect_and_count.py --weights /content/Yolov7-Object-Counter/yolov7.pt --conf 0.1 --source "your images or video path" ```
  
 ### Results!
 
