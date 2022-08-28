@@ -17,4 +17,4 @@ Features
  ``` pip install -r requirements.txt ```
  
  Results!
-![projeresmi](https://user-images.githubusercontent.com/77502485/187065388-059575a1-0133-4131-894d-b5d0af3533a2.png) ![www](https://user-images.githubusercontent.com/77502485/187065381-df4f0fee-4f1c-4d8d-a5e4-ea6e18963fa6.PNG) 
+![indir](https://user-images.githubusercontent.com/77502485/187065464-4787e6ab-bdff-4514-9784-679224fd01a5.jpg) ![www](https://user-images.githubusercontent.com/77502485/187065381-df4f0fee-4f1c-4d8d-a5e4-ea6e18963fa6.PNG) 
