@@ -15,8 +15,11 @@ Features
 
 ### Install requirements with mentioned command below.
  ``` pip install -r requirements.txt ```
+
+### Using counter
+ ``` !python detect_and_count.py --weights /content/yolov7/yolov7.pt --conf 0.1 --source "your images or video path" ```
  
- Results!
+### Results!
 
 ![ffdsfdfd](https://user-images.githubusercontent.com/77502485/187065933-0fe4b372-9c40-47ce-bee8-cae6af97605b.jpg)
 ![indir](https://user-images.githubusercontent.com/77502485/187065517-1ecff689-534f-4aa5-a1e0-06a03ccd8ec9.jpg)
