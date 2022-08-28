@@ -17,6 +17,7 @@ Features
  ``` pip install -r requirements.txt ```
  
  Results!
+![www](https://user-images.githubusercontent.com/77502485/187065580-842cecd0-f4ff-43dd-98be-10d34dfaa51b.PNG)
 
-![örrr3](https://user-images.githubusercontent.com/77502485/187065537-8d4b2f2a-6d5f-4174-81e7-911566b55046.PNG)
+
 ![indir](https://user-images.githubusercontent.com/77502485/187065517-1ecff689-534f-4aa5-a1e0-06a03ccd8ec9.jpg)
