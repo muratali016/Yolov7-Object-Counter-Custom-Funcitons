@@ -10,10 +10,10 @@ Features
 * clone the repository:
 ``` git clone https://github.com/muratali016/Yolov7-Object-Counter.git ```
 
-Upgrade pip with mentioned command below.
+### Upgrade pip with mentioned command below.
 ``` pip install --upgrade pip ```
 
-Install requirements with mentioned command below.
+### Install requirements with mentioned command below.
  ``` pip install -r requirements.txt ```
  
  Results!
