@@ -1,5 +1,5 @@
 ### Please read first "README" before browsing the code
-## Ready-to-use Google Colab file is exist. you can copy this file and run on your colab. File: https://colab.research.google.com/drive/1Bezq6IpAraT8Ee0v8flEJco6wsLn0T3I?usp=sharing
+## Ready-to-use Google Colab file exists. you can copy this file and run it on your colab. File: https://colab.research.google.com/drive/1Bezq6IpAraT8Ee0v8flEJco6wsLn0T3I?usp=sharing
 # Yolov7-Object-Counter
 Object Counting with the newest yolov7
 
