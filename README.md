@@ -18,5 +18,5 @@ Features
  
  Results!
 
-![www](https://user-images.githubusercontent.com/77502485/187065605-03c1c4c2-6119-4c2d-b59b-a54916af22c4.PNG)
+![projeresmi](https://user-images.githubusercontent.com/77502485/187065638-37bf3897-3716-4a92-9ac6-20b239d362f0.png)
 ![indir](https://user-images.githubusercontent.com/77502485/187065517-1ecff689-534f-4aa5-a1e0-06a03ccd8ec9.jpg)
