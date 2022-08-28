@@ -1,5 +1,5 @@
 ### Please read first "README" before browsing the code
-## Ready-to-use Google Colab file is exist. you can copy this file and run on your colab. File:
+## Ready-to-use Google Colab file is exist. you can copy this file and run on your colab. File: https://github.com/muratali016/Yolov7-Object-Counter/blob/main/Ready-to-use-Google-Colab.ipynb
 # Yolov7-Object-Counter
 Object Counting with the newest yolov7
 
