@@ -22,5 +22,6 @@ Features
 ![indir](https://user-images.githubusercontent.com/77502485/187065517-1ecff689-534f-4aa5-a1e0-06a03ccd8ec9.jpg)
 
 ### Inference on a video:
-[![Everything Is AWESOME](https://img.youtube.com/vi/buekkvf1dr8/0.jpg)] (https://www.youtube.com/watch?v=buekkvf1dr8"Everything Is AWESOME")
+[![Counter in London](https://img.youtube.com/vi/buekkvf1dr8/0.jpg)] 
+(https://www.youtube.com/watch?v=buekkvf1dr8"Everything Is AWESOME")
  
