@@ -22,4 +22,4 @@ Features
 ![indir](https://user-images.githubusercontent.com/77502485/187065517-1ecff689-534f-4aa5-a1e0-06a03ccd8ec9.jpg)
 
 Inference on a video:
-[![Watch the video]https://www.youtube.com/watch?v=buekkvf1dr8
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
