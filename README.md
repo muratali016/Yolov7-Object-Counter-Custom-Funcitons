@@ -23,5 +23,5 @@ Features
 
 ### Inference on a video:
 [![Counter in London](https://img.youtube.com/vi/buekkvf1dr8/0.jpg)] 
-(https://www.youtube.com/watch?v=buekkvf1dr8"Everything Is AWESOME")
+(https://www.youtube.com/watch?v=buekkvf1dr8 "Counter in London")
  
