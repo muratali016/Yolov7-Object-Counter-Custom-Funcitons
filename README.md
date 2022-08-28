@@ -9,6 +9,7 @@ Features
 ## Steps to run Code
 * clone the repository:
 * ``` git clone https://github.com/muratali016/Yolov7-Object-Counter.git ```
+* install our yolov7 model
 * ``` !wget "https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt" ```
 
 ### Upgrade pip with mentioned command below.
