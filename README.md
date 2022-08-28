@@ -1,3 +1,4 @@
+## *Please read first "README" before browsing the code
 # Yolov7-Object-Counter
 Object Counting with the newest yolov7
 
