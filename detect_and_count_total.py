@@ -14,9 +14,7 @@ from utils.general import check_img_size, check_requirements, check_imshow, non_
 from utils.plots import plot_one_box
 from utils.torch_utils import select_device, load_classifier, time_synchronized, TracedModel
 
-
 total_last=[] 
-
 
 def count(founded_classes,im0):
   model_values=[]
@@ -38,12 +36,7 @@ def total(founded_classes,im0,total_last):
   print("Total counted objects by every frame:",sum(total_last))
   print("Total objects in the current frame:",total_last[-1])
   
-  
-   
-
- 
-
-
+    
 def detect(save_img=False):
     source, weights, view_img, save_txt, imgsz, trace = opt.source, opt.weights, opt.view_img, opt.save_txt, opt.img_size, not opt.no_trace
     save_img = not opt.nosave and not source.endswith('.txt')  # save inference images
