@@ -35,7 +35,8 @@ def total(founded_classes,im0,total_last):
   ab=im0.shape
   right=(ab[1]/1.7 )
   total_last.append(sum(founded_classes.values()))
-  print("Total counted objects:",sum(total_last))
+  print("Total counted objects by every frame:",sum(total_last))
+  print("Total objects in the current frame:",total_last[-1])
   
   
    
