@@ -1,6 +1,6 @@
  ### Update! (9/21/2022) a new model added for stock market predicion. Model file:https://drive.google.com/file/d/1_ud8ldVz1mnRU_Z3ygXEm0kWSjgSeOEW/view?usp=sharing
  * for detect: "stock_market_detect.py" file
-
+ * Example video below
 ### Please read first "README" before browsing the code
 ## Ready-to-use Google Colab file exists. you can copy this file and run it on your colab. File: https://colab.research.google.com/drive/1Bezq6IpAraT8Ee0v8flEJco6wsLn0T3I?usp=sharing
 * There are steps for applying object counter on images and videos
@@ -39,6 +39,13 @@ Features
 
 ![ffdsfdfd](https://user-images.githubusercontent.com/77502485/187065933-0fe4b372-9c40-47ce-bee8-cae6af97605b.jpg)
 ![indir](https://user-images.githubusercontent.com/77502485/187065517-1ecff689-534f-4aa5-a1e0-06a03ccd8ec9.jpg)
+
+
+### Stock market detection video:
+
+
+https://user-images.githubusercontent.com/77502485/191524813-af48f260-3165-491f-9137-b437343a992c.mp4
+
 
 ### References
 * https://github.com/WongKinYiu/yolov7
