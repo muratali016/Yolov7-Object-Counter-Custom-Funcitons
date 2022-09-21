@@ -44,7 +44,10 @@ Features
 ### Stock market detection video:
 
 
-https://user-images.githubusercontent.com/77502485/191524813-af48f260-3165-491f-9137-b437343a992c.mp4
+
+https://user-images.githubusercontent.com/77502485/191525236-86268939-823f-4852-9c7d-cf7d96a9da78.mp4
+
+
 
 
 ### References
