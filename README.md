@@ -3,7 +3,8 @@
 * There are steps for applying object counter on images and videos
 # Yolov7-Object-Counter
 Object Counting with the newest yolov7
-
+ ### Update! (9/21/2022) a new model added for stock market predicion. Model file:https://drive.google.com/file/d/1_ud8ldVz1mnRU_Z3ygXEm0kWSjgSeOEW/view?usp=sharing
+ * for detect: "stock_market_detect.py" file
 
 https://user-images.githubusercontent.com/77502485/188005594-19cca6dd-6289-4cf0-94f2-d1c519d64949.mp4
 
