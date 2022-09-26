@@ -50,6 +50,8 @@ Features
 https://user-images.githubusercontent.com/77502485/191525236-86268939-823f-4852-9c7d-cf7d96a9da78.mp4
 
 
+# Saving the images of bounding boxes
+![carvf](https://user-images.githubusercontent.com/77502485/192260050-1431410d-48fa-4654-92e5-65178d116a84.png)
 
 
 ### References
