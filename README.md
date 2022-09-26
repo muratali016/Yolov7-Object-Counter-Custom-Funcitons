@@ -1,5 +1,5 @@
  # Yolov7-Object-Counter
-Object Counting and custom functions with the newest yolov7
+**Object Counting and custom functions with the newest yolov7**
  
  https://user-images.githubusercontent.com/77502485/188005594-19cca6dd-6289-4cf0-94f2-d1c519d64949.mp4
  
