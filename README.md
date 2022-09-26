@@ -2,7 +2,7 @@
  * To detect: "stock_market_detect.py" file
  * Example video is below
  ### Update 2 (9/26/2022) a new file added for saving the iamges of bounding boxes file name: "save_bounding_boxes_images.py"
- * Example video is below
+ * Example photo is below
 ### Please read first "README" before browsing the code
 ## Ready-to-use Google Colab file exists. you can copy this file and run it on your colab. File: https://colab.research.google.com/drive/1Bezq6IpAraT8Ee0v8flEJco6wsLn0T3I?usp=sharing
 * There are steps for applying object counter on images and videos
