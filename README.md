@@ -1,13 +1,13 @@
- # Yolov7-Object-Counter
+ # Yolov7-Object-Counter and custom functions 
 **Object Counting and custom functions with the newest yolov7**
- 
+** Crop the bounding boxes 
  https://user-images.githubusercontent.com/77502485/188005594-19cca6dd-6289-4cf0-94f2-d1c519d64949.mp4
  
  
  ### Update 1 (9/21/2022) a new model added for stock market predicion. Model file:https://drive.google.com/file/d/1_ud8ldVz1mnRU_Z3ygXEm0kWSjgSeOEW/view?usp=sharing
  * To detect: "stock_market_detect.py" file
  * Example video is below
- ### Update 2 (9/26/2022) a new file added for saving the iamges of bounding boxes file name: "save_bounding_boxes_images.py"
+ ### Update 2 (9/26/2022) a new file added for saving the images of bounding boxes file name: "save_bounding_boxes_images.py"
  * Example photo is below
 ### Please read first "README" before browsing the code
 ### Ready-to-use Google Colab file exists. you can copy this file and run it on your colab. File: https://colab.research.google.com/drive/1Bezq6IpAraT8Ee0v8flEJco6wsLn0T3I?usp=sharing
