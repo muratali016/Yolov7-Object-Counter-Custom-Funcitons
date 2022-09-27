@@ -1,6 +1,6 @@
  # Yolov7-Object-Counter and custom functions 
 **Object Counting and custom functions with the newest yolov7**
-** Crop the bounding boxes 
+**Crop the bounding boxes**
  https://user-images.githubusercontent.com/77502485/188005594-19cca6dd-6289-4cf0-94f2-d1c519d64949.mp4
  
  
