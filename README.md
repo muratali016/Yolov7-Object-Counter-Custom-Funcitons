@@ -2,9 +2,9 @@
 * **Object Counting and custom functions with the newest yolov7**
 * **Crop the bounding boxes**
  
+ https://user-images.githubusercontent.com/77502485/196060371-e8d6b16f-b9ce-4f2f-bd4e-74bd68ce142e.mp4
  
- 
- https://user-images.githubusercontent.com/77502485/188005594-19cca6dd-6289-4cf0-94f2-d1c519d64949.mp4
+
  
  
  
@@ -16,8 +16,8 @@
  ### Update 3 (10/17/2022) a new file added for tracking and counting them. File name: "TRACK-SOURCE.py"
  
  
+ https://user-images.githubusercontent.com/77502485/188005594-19cca6dd-6289-4cf0-94f2-d1c519d64949.mp4
 
-https://user-images.githubusercontent.com/77502485/196060371-e8d6b16f-b9ce-4f2f-bd4e-74bd68ce142e.mp4
 
 
  
