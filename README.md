@@ -13,6 +13,15 @@
  * Example video is below
  ### Update 2 (9/26/2022) a new file added for saving the images of bounding boxes file name: "save_bounding_boxes_images.py"
  * Example photo is below
+ ### Update 3 (10/17/2022) a new file added for tracking and counting them. File name: "TRACK-SOURCE.py"
+ 
+ 
+
+https://user-images.githubusercontent.com/77502485/196060371-e8d6b16f-b9ce-4f2f-bd4e-74bd68ce142e.mp4
+
+
+ 
+ 
 ### Please read first "README" before browsing the code
 ### Ready-to-use Google Colab file exists. you can copy this file and run it on your colab. File: https://colab.research.google.com/drive/1Bezq6IpAraT8Ee0v8flEJco6wsLn0T3I?usp=sharing
 * There are steps for applying object counter on images and videos
