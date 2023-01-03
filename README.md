@@ -7,6 +7,7 @@
 
  
  
+ ### Ready to use tracking Google Colab file: https://colab.research.google.com/drive/1RK1IgQx6Fr7D2BwgCQJiUiZPclj69Myv?usp=sharing
  
  ### Update 1 (9/21/2022) a new model added for stock market predicion. Model file:https://drive.google.com/file/d/1_ud8ldVz1mnRU_Z3ygXEm0kWSjgSeOEW/view?usp=sharing
  * To detect: "stock_market_detect.py" file
